@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyWorksSpace\\.Net Projects\\Testing_dotNet\\Testing_dotNet.csproj": {}
+  },
+  "projects": {
+    "D:\\MyWorksSpace\\.Net Projects\\Testing_dotNet\\Testing_dotNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyWorksSpace\\.Net Projects\\Testing_dotNet\\Testing_dotNet.csproj",
+        "projectName": "Testing_dotNet",
+        "projectPath": "D:\\MyWorksSpace\\.Net Projects\\Testing_dotNet\\Testing_dotNet.csproj",
+        "packagesPath": "C:\\Users\\Red Alpha\\.nuget\\packages\\",
+        "outputPath": "D:\\MyWorksSpace\\.Net Projects\\Testing_dotNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Red Alpha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
